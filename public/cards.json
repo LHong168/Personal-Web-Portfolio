@@ -1,7 +1,7 @@
 [
     {
         "title": "Ambot - Final Year Project",
-        "img": "../src/assets/ambot.png",
+        "img": "./assets/ambot.png",
         "description": "In a collaborative project with AUPP, I played a pivotal role in developing a robot for marketing the university during an Open House event. I constructed the software structure’s backbone using WindForm C#, which included creating a parent function for page switching, custom buttons, and defining the JSON structure. I also implemented a Content Management System (CMS) for centralized data management, enabling non-developers to make changes. As a team leader, I was responsible for task delegation and liaising with the marketing team and our collaborating company, FuseGap, ensuring the physical robot met the project’s scope. This project highlighted my technical skills, leadership abilities, and collaborative approach.",
         "year": "2023",
         "role": "Software developer",
@@ -11,7 +11,7 @@
     },
     {
         "title": "Rentool - Course Project",
-        "img": "../src/assets/rentool.png",
+        "img": "./assets/rentool.png",
         "description": "In a significant project, I developed key frontend components of a rental web application using React and TailwindCSS. I also worked with MongoDB Spring Boot and APIs for item display on the home page. A major part of my role was documenting the project lifecycle, enhancing my skills as a software engineer and emphasizing the importance of thorough documentation in project success.",
         "year": "2023",
         "role": "Full-Stack",
@@ -21,7 +21,7 @@
     },
     {
         "title": "Mahob - Course Project ",
-        "img": "../src/assets/mahob.png",
+        "img": "./assets/mahob.png",
         "description": "I played a pivotal role in developing Mahob, a food delivery app, leveraging my full-stack development skills. On the back-end, I created the core functionalities for managing order menus, including efficient processing. On the front-end, I designed and implemented user interfaces for restaurants and menus, along with interactive animations user experience. With this projects, it help me apply basic in web development and test my knowlegde to build a functional web applpication.",
         "year": "2021",
         "role": "Full-Stack developer",

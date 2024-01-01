@@ -1,7 +1,7 @@
 <template>
     <div class="mt-5 text-light row gy-3">
         <div class="col-12 mb-3 d-flex justify-content-center align-items-center">
-            <img src="../../assets/resume-profile.jpg" class="rounded-circle bg-light" alt="profile-img" width="150">
+            <img src="../../../public/assets/resume-profile.jpg" class="rounded-circle bg-light" alt="profile-img" width="150">
         </div>
         <h4 class="col-12 text-center fs-5">Greeting! I am Hong!</h4>
         <h1 class="col-12 text-center">Software Developer</h1>

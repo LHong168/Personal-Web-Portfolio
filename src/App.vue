@@ -3,7 +3,7 @@
     <div class="title-font">
       <Navbar></Navbar>
     </div>
-    <div class="w-75 m-auto pt-5 pb-3" id="Home">
+    <div class="w-75 m-auto pt-5 pb-3" id="#Home">
       <Main></Main>
     </div>
   </div>
