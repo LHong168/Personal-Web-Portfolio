@@ -47,10 +47,12 @@ export default {
 
                 for (let index in this.navList) {
                     const sectionElement = document.getElementById(this.navList[index]);
-                    const sectionTop = sectionElement.offsetTop;
+                    if (sectionElement) {
+                        const sectionTop = sectionElement.offsetTop;
 
-                    if (currentScroll >= sectionTop - 450) { // Adjust offset as needed
-                        this.activePage = index;
+                        if (currentScroll >= sectionTop - 450) { // Adjust offset as needed
+                            this.activePage = index;
+                        }
                     }
                 }
             });
