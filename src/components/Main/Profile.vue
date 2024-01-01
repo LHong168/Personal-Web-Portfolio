@@ -24,7 +24,7 @@
             </a>
             <a 
                 class="icon cursor-hand mt-3 mt-md-0 py-1 px-2 bg-secondary rounded-5 d-flex justify-content-center align-items-center mx-2 text-decoration-none" 
-                href="/LHResume.pdf"
+                href="./LHResume.pdf"
                 download="Resume"
             >
                 <p class="text-white fw-bold text-uppercase m-0 px-2 py-2">Download Resume</p>
