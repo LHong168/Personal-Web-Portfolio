@@ -47,6 +47,7 @@ export default {
 
                 for (let index in this.navList) {
                     const sectionElement = document.getElementById(this.navList[index]);
+
                     if (sectionElement) {
                         const sectionTop = sectionElement.offsetTop;
 
